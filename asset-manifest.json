@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/SpeedTypingGame/static/css/main.5f361e03.chunk.css",
-    "main.js": "/SpeedTypingGame/static/js/main.76290999.chunk.js",
-    "main.js.map": "/SpeedTypingGame/static/js/main.76290999.chunk.js.map",
+    "main.css": "/SpeedTypingGame/static/css/main.fdc1dfc3.chunk.css",
+    "main.js": "/SpeedTypingGame/static/js/main.694bc7c9.chunk.js",
+    "main.js.map": "/SpeedTypingGame/static/js/main.694bc7c9.chunk.js.map",
     "runtime-main.js": "/SpeedTypingGame/static/js/runtime-main.aecf0926.js",
     "runtime-main.js.map": "/SpeedTypingGame/static/js/runtime-main.aecf0926.js.map",
-    "static/js/2.7c603dff.chunk.js": "/SpeedTypingGame/static/js/2.7c603dff.chunk.js",
-    "static/js/2.7c603dff.chunk.js.map": "/SpeedTypingGame/static/js/2.7c603dff.chunk.js.map",
+    "static/js/2.7f1a6370.chunk.js": "/SpeedTypingGame/static/js/2.7f1a6370.chunk.js",
+    "static/js/2.7f1a6370.chunk.js.map": "/SpeedTypingGame/static/js/2.7f1a6370.chunk.js.map",
     "index.html": "/SpeedTypingGame/index.html",
-    "precache-manifest.fa5b28c4dd3ae06cdb1ace2d9522063e.js": "/SpeedTypingGame/precache-manifest.fa5b28c4dd3ae06cdb1ace2d9522063e.js",
+    "precache-manifest.789c2b435bebff6538d80e212bb537ba.js": "/SpeedTypingGame/precache-manifest.789c2b435bebff6538d80e212bb537ba.js",
     "service-worker.js": "/SpeedTypingGame/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/SpeedTypingGame/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7c603dff.chunk.js.LICENSE.txt": "/SpeedTypingGame/static/js/2.7c603dff.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/SpeedTypingGame/static/media/logo.5d5d9eef.svg"
+    "static/css/main.fdc1dfc3.chunk.css.map": "/SpeedTypingGame/static/css/main.fdc1dfc3.chunk.css.map",
+    "static/js/2.7f1a6370.chunk.js.LICENSE.txt": "/SpeedTypingGame/static/js/2.7f1a6370.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aecf0926.js",
-    "static/js/2.7c603dff.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.76290999.chunk.js"
+    "static/js/2.7f1a6370.chunk.js",
+    "static/css/main.fdc1dfc3.chunk.css",
+    "static/js/main.694bc7c9.chunk.js"
   ]
 }
